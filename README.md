@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, I'm Bhavishya Sudhish Mangalasary!
 
+### 🚀 About Me
+  -> Currently pursuing Masters in Computer Science @Illinois Institute of Technology, Chicago
+  -> 
+  
 <!--
 **BhavishyaMangalasary/BhavishyaMangalasary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
