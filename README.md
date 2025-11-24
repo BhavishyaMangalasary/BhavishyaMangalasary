@@ -1,9 +1,22 @@
 ## Hi, I'm Bhavishya Sudhish Mangalasary!
+* Data Science | AI/ML *
 
-### 🚀 About Me
-  -> Currently pursuing Masters in Computer Science @Illinois Institute of Technology, Chicago
-  -> 
-  
+🎓 Graduate CS Student @ Illinois Tech  
+💼 Aspiring Data Analyst | ML Engineer 
+
+---
+
+## 🛠 Tech I Work With
+**Languages:** Python, C 
+**Web Tech:** HTML, CSS, Javascript    
+**Tools:** VS Code, Github     
+**Databases:** MYSQL    Flask, FastAPI, Node.js  
+**AI/ML:** Scikit-learn, PyTorch, TensorFlow
+**Data:** Pandas, NumPy, Matplotlib
+
+
+
+
 <!--
 **BhavishyaMangalasary/BhavishyaMangalasary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
